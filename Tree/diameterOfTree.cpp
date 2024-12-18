@@ -1,4 +1,4 @@
-//Inorder and preorder Traversal
+//Diameter is the number of nodes in the longest path between any 2 node
 
 
 #include<bits/stdc++.h>
