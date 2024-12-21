@@ -118,7 +118,7 @@ int main(){
 	cout<<"Before Deletion: ";
 	inorderPrint(root);
 
-	deleteInBST(root,9);
+	root=deleteInBST(root,9);
 
 	//Print inorder traversal(After deletion)
 	cout<<"\nAfter deletion 9: ";
